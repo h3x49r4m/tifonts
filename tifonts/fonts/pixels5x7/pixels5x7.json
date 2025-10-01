@@ -1,0 +1,12 @@
+{
+    "pixels5x7": {
+        "char_width": 5,
+        "char_height": 7,
+        "chars": [
+            "english_letters.json",
+            "numbers.json",
+            "symbols.json",
+            "math_symbols.json"
+        ]
+    }
+}
