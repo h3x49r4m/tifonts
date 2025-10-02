@@ -10,4 +10,6 @@ dependencies = [
     "sphinx",
     "sphinx-rtd-theme",
     "sphinx-autodoc-typehints",
+    "twine>=6.2.0",
+    "build>=1.3.0",
 ]

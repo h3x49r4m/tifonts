@@ -1,5 +1,5 @@
 TiFonts: Taichi-Lang Font Rendering Library
-==========================================
+===========================================
 
 `tifonts` is a Python library designed to render pixel-based fonts within the `taichi-lang` environment. It allows users to display text on a Taichi canvas with customizable fonts, sizes, colors, and positions.
 
@@ -98,7 +98,6 @@ Font Structure
 Fonts are now located within the `tifonts/fonts/` directory. Each font should be organized in a subdirectory like this:
 
 .. code-block::
-    :linenos:
 
     tifonts/
     └── fonts/
