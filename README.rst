@@ -11,8 +11,15 @@ Features
 *   Control text position (x, y), size, and color.
 *   Uses `pixels5x7` as the default font if no font is specified.
 
-Installation
-------------
+Installation with pip
+---------------------
+
+.. code-block:: bash
+
+    $ pip install tifonts==0.1.0
+
+Installation from source
+------------------------
 
 This project uses `uv` for dependency management.
 
